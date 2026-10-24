@@ -17,9 +17,6 @@
   <img src="https://img.shields.io/badge/Arabic_RTL-success?style=flat-square">
 </p>
 
-<p align="center">
-  <a href="https://fatima-alsaggaf-portfolio.vercel.app/#projects">View project in my portfolio</a>
-</p>
 
 ---
 
