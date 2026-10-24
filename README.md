@@ -17,6 +17,10 @@
   <img src="https://img.shields.io/badge/Arabic_RTL-success?style=flat-square">
 </p>
 
+<p align="center">
+  <a href="https://fatima-alsaggaf-portfolio.vercel.app/#projects">View project in my portfolio</a>
+</p>
+
 ---
 
 ## The problem
@@ -184,3 +188,9 @@ rendering does not handle.
 Firebase native libraries, purchased asset packs, and Unity's `Library/` folder are excluded from
 version control. Any API keys that appeared in the source have been replaced with placeholders.
 Supply your own Firebase configuration as described above.
+
+## About this repository
+
+This is Fatima Alsaggaf’s portfolio fork of the [Taleeq team repository published by Ruba Fayez](https://github.com/Rubafayez/taleeq-speech-therapy-game). The original commit history and project attribution are preserved.
+
+This copy has not been built or tested as part of preparing the portfolio. Restore the Firebase SDK, supply your own configuration, and restore the required art assets before running it.
